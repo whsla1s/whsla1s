@@ -1,8 +1,8 @@
 ## Oiii eu sou a Laís Rocha, e esses são alguns dos meus projetos!!
 
-Analista de Dados em início de carreira e estudante de Ciência da Computação. Minha paixão é trabalhar com todo o ciclo de vida dos dados: faço extração e consulta com SQL, limpeza e tratamento com Python (Pandas, NumPy) e crio dashboards interativos no Power BI para comunicar resultados.
+Sou um Engenheiro de Software apaixonado por transformar café em código e problemas complexos em soluções escaláveis. Meu foco atual é desenvolver aplicações [Web/Mobile/Backend] eficientes e centradas no usuário.
 
-Tenho experiência em desenvolvimento front-end (HTML, CSS, JS) e utilizo Git/GitHub para versionar todos os meus projetos. Estou sempre em busca de projetos desafiadores para aplicar minha proatividade e compromisso com a aprendizagem contínua.
+Tenho experiência em desenvolvimento front-end e back-end e utilizo Git/GitHub para versionar todos os meus projetos. Estou sempre em busca de projetos desafiadores para aplicar minha proatividade e compromisso com a aprendizagem contínua.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
