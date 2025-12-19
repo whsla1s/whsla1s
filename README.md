@@ -1,6 +1,6 @@
 ## Oiii eu sou a Laís Rocha, e esses são alguns dos meus projetos!!
 
-Sou um Engenheiro de Software apaixonado por transformar café em código e problemas complexos em soluções escaláveis. Meu foco atual é desenvolver aplicações [Web/Mobile/Backend] eficientes e centradas no usuário.
+Sou uma Engenheira de Software apaixonada por transformar café em código e problemas complexos em soluções escaláveis. Meu foco atual é desenvolver aplicações [Web/Mobile/Backend] eficientes e centradas no usuário.
 
 Tenho experiência em desenvolvimento front-end e back-end e utilizo Git/GitHub para versionar todos os meus projetos. Estou sempre em busca de projetos desafiadores para aplicar minha proatividade e compromisso com a aprendizagem contínua.
 
